@@ -90,8 +90,8 @@ certifications: 4          # AWS (x2) · HashiCorp · Google Cloud
 
 <div align="center">
 
-[![EduTech LMS](https://github-readme-stats.vercel.app/api/pin/?username=shres8&repo=edutech-lms-ecs&theme=dark&bg_color=0a0a0a&border_color=00e5a0&title_color=00e5a0&icon_color=00e5a0)](https://github.com/shres8/edutech-lms-aws-ecs)
-[![AWS Two-Tier Infra](https://github-readme-stats.vercel.app/api/pin/?username=shres8&repo=aws-two-tier-infra&theme=dark&bg_color=0a0a0a&border_color=00e5a0&title_color=00e5a0&icon_color=00e5a0)](https://github.com/shres8/Two-Tier-Application-using-Terraform)
+[![EduTech LMS](https://github-readme-stats.vercel.app/api/pin/?username=shres8&repo=edutech-lms-aws-ecs&theme=dark&bg_color=0a0a0a&border_color=00e5a0&title_color=00e5a0&icon_color=00e5a0)](https://github.com/shres8/edutech-lms-aws-ecs)
+[![AWS Two-Tier Infra](https://github-readme-stats.vercel.app/api/pin/?username=shres8&repo=Two-Tier-Application-using-Terraform&theme=dark&bg_color=0a0a0a&border_color=00e5a0&title_color=00e5a0&icon_color=00e5a0)](https://github.com/shres8/Two-Tier-Application-using-Terraform)
 
 </div>
 
