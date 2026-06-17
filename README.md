@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>☁️ AWS Cloud & DevOps Engineer · Bengaluru, India</h3>
-  <p><em>2.5+ years architecting scalable AWS environments · IaC · CI/CD · Container Orchestration</em></p>
+  <p><em>2.7+ years architecting scalable AWS environments · IaC · CI/CD · GIT · GitHub Actions</em></p>
 
   <a href="https://linkedin.com/in/shresth-sanskar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
