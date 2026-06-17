@@ -25,7 +25,7 @@
 ```yaml
 role:        AWS Cloud Engineer @ Cognizant  (Aug 2023 – Present)
 location:    Bengaluru, India
-focus:       Infrastructure as Code · CI/CD · Container Orchestration
+focus:       Infrastructure as Code · CI/CD · GIT · GitHub Actions
 deployments: 40% faster    # via automated GitHub Actions + Terraform pipelines
 security:    92% improved  # CIS-hardened EC2 bootstrap + IAM automation
 uptime:      99.9%         # CloudWatch + Grafana proactive monitoring
